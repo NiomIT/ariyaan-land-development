@@ -9,13 +9,13 @@ function items(items) {
   function catagoryTemplate(category) {
     return `
     <div class="card-deck col-xl-4 col-md-6 gap">
-    <a href="${category.albumLink}" target="_blank">
+    <a href="${category.link}" target="_blank">
     <div class="card">
       <img class="card-img-top" src="${category.photo}" alt="${category.title}">
       <div class="card-body">
         <h5 class="card-title">${category.title}</h5>
         <p class="card-text text-black">${category.description}</p>
-        <p class="card-text"><small class="text-muted">${category.time}</small></p>
+        <p class="card-text"><small class="text-muted">${category.location}</small></p>
       </div>
     </div>
     </a>     

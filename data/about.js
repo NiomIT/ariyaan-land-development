@@ -1,6 +1,6 @@
 const categoryData = [
     {
-        photo: "https://drive.google.com/file/d/1BXeMtY4zrlQQmsTXz4LNxtv-ymkSbvpS/view?usp=sharing",
-        about: "স্বনির্ভর বাংলাদেশ গড়ার লক্ষ্যে সৎ, মেধাবী ও দেশপ্রেমিক নাগরিক তৈরির অঙ্গীকার"
+        photo: "../img/sardar-palace.jpg",
+        about: "আপনার স্বপ্নের অ্যাপার্টমেন্টটি হোক সরদার প্যালেস-এ। <br>যোগাযোগঃ- চেয়ারম্যান বাড়ী, দেলপাড়া,কুতবপুর, ফতুল্লা, নারায়নগঞ্জ। <br>হট-লাইনঃ- 01313-600450"
     }
 ];
